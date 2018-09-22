@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '33608'
     url: http://www.gutenberg.org/2009/agents/33608
     wikipedia: http://en.wikipedia.org/wiki/Isabel_Florence_Hapgood
+covers:
+- cover_type: archival
+  image_path: 55636-h/images/cover.jpg
 creator:
   author:
     agent_name: Gorky, Maksim
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/348
     wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55636#Orloff-and-His-Wife-Tales-of-the-Barefoot-Brigade
 gutenberg_issued: '2017-09-27'
 gutenberg_type: Text
 identifiers:
