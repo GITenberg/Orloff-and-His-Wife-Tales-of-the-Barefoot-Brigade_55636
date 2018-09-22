@@ -1,0 +1,44 @@
+_repo: Orloff-and-His-Wife-Tales-of-the-Barefoot-Brigade_55636
+_version: 0.0.1
+alternative_title: 'Orloff and His Wife: Tales of the Barefoot Brigade'
+contributor:
+  translator:
+    agent_name: Hapgood, Isabel Florence
+    alias: Hapgood, Isabel F.
+    birthdate: 1850
+    deathdate: 1928
+    gutenberg_agent_id: '33608'
+    url: http://www.gutenberg.org/2009/agents/33608
+    wikipedia: http://en.wikipedia.org/wiki/Isabel_Florence_Hapgood
+creator:
+  author:
+    agent_name: Gorky, Maksim
+    aliases:
+    - Gorky, Maxime
+    - Gorky, Maxim
+    - Горький, Максим
+    - Peshkov, Alexey Maximiovich
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '348'
+    url: http://www.gutenberg.org/2009/agents/348
+    wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
+description: ''
+gutenberg_issued: '2017-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55636'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Short stories, Russian -- Translations into English'
+- !lcsh 'Russian fiction -- Translations into English'
+- GITenberg
+tableOfContents: Orlóff and his wife -- Konováloff -- The khan and his son -- The
+  exorcism -- Men with pasts -- The insolent man -- Várenka Ólesoff -- Comrades.
+title: 'Orlóff and His Wife: Tales of the Barefoot Brigade'
+url: http://www.gutenberg.org/ebooks/55636
